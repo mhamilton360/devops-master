@@ -1,3 +1,5 @@
 This is test data.
 
 Another commit from local workstation.
+
+Using git commit -am command
